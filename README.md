@@ -1,0 +1,2 @@
+# KidStory
+KidStory Mac side
